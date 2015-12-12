@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+git clone copies a git repository to store locally so you can modifiy it. It also copies the entire history of the project.
