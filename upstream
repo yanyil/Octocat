@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+a upstream remote is a repo that is hosted on the internet or a network so you can collaborating with others on a project. When you make change locally you push the local repo upstream to the original repo so others can see the change.
